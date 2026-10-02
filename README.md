@@ -248,3 +248,4 @@ accept your pull requests.
 
 [gh-actions]: https://github.com/firebase/FirebaseUI-Android/actions
 [gh-actions-badge]: https://github.com/firebase/FirebaseUI-Android/workflows/Android%20CI/badge.svg
+
